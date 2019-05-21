@@ -7,3 +7,11 @@ C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\obj\Debug\RyougiGRandomSyste
 C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.csproj.CoreCompileInputs.cache
 C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.exe
 C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.pdb
+C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\bin\Debug\RyougiGRandomSystem.exe
+C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\bin\Debug\RyougiGRandomSystem.pdb
+C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.Form1.resources
+C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.Properties.Resources.resources
+C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.csproj.GenerateResource.cache
+C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.csproj.CoreCompileInputs.cache
+C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.exe
+C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.pdb

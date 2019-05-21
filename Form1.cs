@@ -74,6 +74,19 @@ namespace RyougiGRandomSystem
             }
             dataGridView1.Columns.Clear();
             AddStringsToDGV(result);
+            data = result;
+        }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            saveFileDialog1.ShowDialog();
+            CSVWriter writer = new CSVWriter();
+            writer.WriteListToFile(data, saveFileDialog1.FileName);
+        }
+
+        private void SaveFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
         }
     }
 }
