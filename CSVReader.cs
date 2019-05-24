@@ -16,7 +16,7 @@ namespace RyougiGRandomSystem
         public List<List<string>> ReadFromFileToList(string filepath)
         {
             List<List<string>> result=new List<List<string>>();
-            string[] source = File.ReadAllLines(filepath);
+            string[] source = File.ReadAllLines(filepath,Encoding.Default);
             int i = 0;
             foreach(string rows in source)
             {

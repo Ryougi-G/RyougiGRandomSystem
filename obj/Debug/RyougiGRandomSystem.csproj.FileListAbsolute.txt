@@ -15,3 +15,4 @@ C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debu
 C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.csproj.CoreCompileInputs.cache
 C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.exe
 C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.pdb
+C:\Users\maohetuzi\source\repos\RyougiGRandomSystem\RyougiGRandomSystem\obj\Debug\RyougiGRandomSystem.csprojAssemblyReference.cache

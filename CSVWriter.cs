@@ -10,7 +10,7 @@ namespace RyougiGRandomSystem
     {
         public void WriteListToFile(List<List<string>> table,string filepath)
         {
-            StreamWriter writer = new StreamWriter(filepath);
+            StreamWriter writer = new StreamWriter(filepath, false,Encoding.Default);
             foreach(List<string> row in table)
             {
                 string para = "";
